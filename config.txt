@@ -1,3 +1,0 @@
-plate=DAQ6563
-model=Toyota Corolla
-server_ip=192.168.100.3
