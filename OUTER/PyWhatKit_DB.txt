@@ -1,0 +1,50 @@
+Date: 24/4/2025
+Time: 12:52
+Phone Number: +201025296838
+Image: detected_stop\stop_20250424-125225.jpg
+Caption: 🚨 تم اكتشاف إشارة STOP
+--------------------
+Date: 24/4/2025
+Time: 12:53
+Phone Number: +201025296838
+Image: detected_stop\stop_20250424-125340.jpg
+Caption: 🚨 تم اكتشاف إشارة STOP
+--------------------
+Date: 24/4/2025
+Time: 12:56
+Phone Number: +201025296838
+Image: detected_stop\stop_20250424-125558.jpg
+Caption: 🚨 تم اكتشاف إشارة STOP
+--------------------
+Date: 24/4/2025
+Time: 12:58
+Phone Number: +201025296838
+Image: detected_stop\stop_20250424-125813.jpg
+Caption: 🚨 تم اكتشاف إشارة STOP
+--------------------
+Date: 24/4/2025
+Time: 13:3
+Phone Number: +201025296838
+Image: detected_stop\stop_20250424-130332.jpg
+Caption: 🚨 تم اكتشاف إشارة STOP
+--------------------
+Date: 24/4/2025
+Time: 13:13
+Phone Number: +201025296838
+Message: 🚨 تم اكتشاف إشارة STOP!
+--------------------
+Date: 24/4/2025
+Time: 15:6
+Phone Number: +201025296838
+Message: 🚨 تم اكتشاف إشارة STOP!
+--------------------
+Date: 24/4/2025
+Time: 15:7
+Phone Number: +201025296838
+Message: 🚨 تم اكتشاف إشارة STOP!
+--------------------
+Date: 24/4/2025
+Time: 15:8
+Phone Number: +201025296838
+Message: 🚨 تم اكتشاف إشارة STOP!
+--------------------
